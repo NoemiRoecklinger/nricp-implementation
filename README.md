@@ -2,7 +2,7 @@
 
 ## How to use the GUI 
 
-![GitHub Logo](/images/logo.png)
+![GUI manual](/images/logo.png)
 
 ## Attribution
 
