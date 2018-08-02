@@ -22,6 +22,14 @@ This implementation follows the paper by Amberg et al. (2007). If you use this a
   organization={IEEE}
 }
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 ## Contact
 Authors: 
 Noemi Roecklinger and Ibrahim Lawal
