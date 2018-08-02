@@ -1,5 +1,9 @@
 # Implementation of NR-ICP following Amberg 
 
+## How to use the GUI 
+
+![GitHub Logo](/images/logo.png)
+
 ## Attribution
 
 This implementation follows the paper by Amberg et al. (2007). If you use this algorithm, please cite: 
