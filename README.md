@@ -2,7 +2,7 @@
 
 ## How to use the GUI 
 
-![GUI manual](/images/logo.png)
+![GUI manual](/Images/GUI.png)
 
 ## Attribution
 
@@ -25,4 +25,5 @@ The dataset used to demonstrate the algorithm is provided by Charly Nash.
 ## Contact
 Authors: 
 Noemi Roecklinger and Ibrahim Lawal
+
 noemi.roecklinger.16@ucl.ac.uk
