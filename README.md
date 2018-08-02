@@ -4,7 +4,7 @@
 
 This implementation follows the paper by Amberg et al. (2007). If you use this algorithm, please cite: 
 
-```javascript
+```
 @inproceedings{amberg2007optimal,
   title={Optimal step nonrigid icp algorithms for surface registration},
   author={Amberg, Brian and Romdhani, Sami and Vetter, Thomas},
