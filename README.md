@@ -1,1 +1,1 @@
-"# nricp-implementation" 
+Implementation of NR-ICP following Amberg 
