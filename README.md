@@ -15,6 +15,9 @@ This implementation follows the paper by Amberg et al. (2007). If you use this a
 }
 ```
 
+Furthermore, parts of the implementation follow the NR-ICP implementation by Charly Nash (https://github.com/charlienash/nricp). 
+The dataset used to demonstrate the algorithm is provided by Charly Nash. 
+
 ## Contact
 Authors: 
 Noemi Roecklinger and Ibrahim Lawal
